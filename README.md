@@ -40,3 +40,7 @@ Data Validation: Pydantic v2
 TTS Engine: gTTS (Google Text-to-Speech)
 
 Environment: python-dotenv
+
+
+
+설치 패키지:pip install google-genai pydantic gtts python-dotenv
